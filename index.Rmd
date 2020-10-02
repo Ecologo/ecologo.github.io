@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Ecologo's Webpage"
 output:
   html_document:
     theme: spacelab
@@ -11,6 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![](img/president.jpg){width=100px}
 
 ## About
 
